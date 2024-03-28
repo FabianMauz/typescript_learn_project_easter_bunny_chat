@@ -1,0 +1,10 @@
+https://www.typescriptlang.org/docs/
+
+
+https://react.dev/learn/typescript
+
+
+https://www.freecodecamp.org/news/using-typescript-in-react-apps/
+
+
+https://blog.logrocket.com/how-to-use-typescript-react-tutorial-examples/
