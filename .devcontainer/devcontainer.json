@@ -11,7 +11,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"usernamehw.errorlens",
+				"tonybaloney.vscode-pets"
 			]
 		}
 	}
